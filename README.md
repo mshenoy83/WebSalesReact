@@ -1,2 +1,0 @@
-# WebSalesReact
-Created with CodeSandbox
